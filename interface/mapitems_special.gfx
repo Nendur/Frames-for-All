@@ -1,0 +1,136 @@
+objectTypes = {
+### Empire shields ######################################################
+
+### Papal State
+
+	EMFXActorType = {
+		name = "k_papal_state"
+		actorfile = "gfx\models\Shields\papalstates.xac"
+		scale = 0.4f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+### Roman Empires
+
+	EMFXActorType = {
+		name = "e_roman_empire"
+		actorfile = "gfx\models\Shields\romanempire.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_roman"
+		actorfile = "gfx\models\Shields\romanempire.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_byzantium"
+		actorfile = "gfx\models\Shields\byzantium.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_hre_french"
+		actorfile = "gfx\models\Shields\holy_roman.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_karling"
+		actorfile = "gfx\models\Shields\holy_roman.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_wre"
+		actorfile = "gfx\models\Shields\holy_roman.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_novorusskiy"
+		actorfile = "gfx\models\Shields\holy_roman.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+### Mongol Empires
+
+	EMFXActorType = {
+		name = "e_mongol_empire"
+		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
+		scale = 0.4f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_golden_horde"
+		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
+		scale = 0.4f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_il-khanate"
+		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
+		scale = 0.4f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_chagatai"
+		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
+		scale = 0.4f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_khalasar"
+		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
+		scale = 0.4f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+### Western Protectorate
+
+	pdxmesh = {
+		name = "e_china_west_governor"
+		file = "gfx\models\Shields\chinese_emperor_shield.mesh"
+		scale = 1f
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+}
