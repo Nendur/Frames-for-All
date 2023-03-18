@@ -1,7 +1,8 @@
 objectTypes = {
 ### Miaphysite shields ######################################################
+
 	EMFXActorType = {
-		name = "copticgfx_count_shield"
+		name = "miaphysitegfx_count_shield"
 		actorfile = "gfx\models\Shields\coptic_count_shield.xac"
 		scale = 0.5f
 		use_animation = no
@@ -10,7 +11,7 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "copticgfx_duke_shield"
+		name = "miaphysitegfx_duke_shield"
 		actorfile = "gfx\models\Shields\coptic_duke_shield.xac"
 		scale = 0.5f
 		use_animation = no
@@ -19,7 +20,7 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "copticgfx_king_shield"
+		name = "miaphysitegfx_king_shield"
 		actorfile = "gfx\models\Shields\coptic_king_shield.xac"
 		scale = 0.5f
 		use_animation = no
@@ -28,7 +29,7 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "copticgfx_emperor_shield"
+		name = "miaphysitegfx_emperor_shield"
 		actorfile = "gfx\models\Shields\coptic_empire_shield.xac"
 		scale = 0.5f
 		use_animation = no

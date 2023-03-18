@@ -2,36 +2,9 @@ objectTypes = {
 ### Bön shields ####################################################
 
 	EMFXActorType = {
-		name = "bodpagfx_count_shield"
-		actorfile = "gfx\models\Shields\bon_count_shield.xac"
-		scale = 0.35f
-		use_animation = no
-		cull_distance = 550.0f
-		scale_on_cull_distance = no
-	}
-
-	EMFXActorType = {
 		name = "bongfx_count_shield"
 		actorfile = "gfx\models\Shields\bon_count_shield.xac"
-		scale = 0.35f
-		use_animation = no
-		cull_distance = 550.0f
-		scale_on_cull_distance = no
-	}
-
-	EMFXActorType = {
-		name = "reformedbongfx_count_shield"
-		actorfile = "gfx\models\Shields\bon_count_shield.xac"
-		scale = 0.35f
-		use_animation = no
-		cull_distance = 550.0f
-		scale_on_cull_distance = no
-	}
-
-	EMFXActorType = {
-		name = "bodpagfx_duke_shield"
-		actorfile = "gfx\models\Shields\bon_duke_shield.xac"
-		scale = 0.35f
+		scale = 0.55f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
@@ -40,25 +13,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "bongfx_duke_shield"
 		actorfile = "gfx\models\Shields\bon_duke_shield.xac"
-		scale = 0.35f
-		use_animation = no
-		cull_distance = 550.0f
-		scale_on_cull_distance = no
-	}
-
-	EMFXActorType = {
-		name = "reformedbongfx_duke_shield"
-		actorfile = "gfx\models\Shields\bon_duke_shield.xac"
-		scale = 0.35f
-		use_animation = no
-		cull_distance = 550.0f
-		scale_on_cull_distance = no
-	}
-
-	EMFXActorType = {
-		name = "bodpagfx_king_shield"
-		actorfile = "gfx\models\Shields\bon_king_shield.xac"
-		scale = 0.4f
+		scale = 0.6f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
@@ -66,24 +21,6 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "bongfx_king_shield"
-		actorfile = "gfx\models\Shields\bon_king_shield.xac"
-		scale = 0.4f
-		use_animation = no
-		cull_distance = 550.0f
-		scale_on_cull_distance = no
-	}
-
-	EMFXActorType = {
-		name = "reformedbongfx_king_shield"
-		actorfile = "gfx\models\Shields\bon_king_shield.xac"
-		scale = 0.4f
-		use_animation = no
-		cull_distance = 550.0f
-		scale_on_cull_distance = no
-	}
-
-	EMFXActorType = {
-		name = "bodpagfx_emperor_shield"
 		actorfile = "gfx\models\Shields\bon_king_shield.xac"
 		scale = 0.5f
 		use_animation = no
@@ -93,6 +30,33 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "bongfx_emperor_shield"
+		actorfile = "gfx\models\Shields\bon_king_shield.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "reformedbongfx_count_shield"
+		actorfile = "gfx\models\Shields\bon_count_shield.xac"
+		scale = 0.55f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "reformedbongfx_duke_shield"
+		actorfile = "gfx\models\Shields\bon_duke_shield.xac"
+		scale = 0.6f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "reformedbongfx_king_shield"
 		actorfile = "gfx\models\Shields\bon_king_shield.xac"
 		scale = 0.5f
 		use_animation = no

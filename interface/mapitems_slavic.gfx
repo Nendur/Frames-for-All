@@ -1,9 +1,9 @@
 objectTypes = {
-### Pagan shields #######################################################
+### Slavic Pagan shields #######################################################
 
 	EMFXActorType = {
-		name = "pagangfx_count_shield"
-		actorfile = "gfx\models\Shields\pagan_count_shield.xac"
+		name = "slavicgfx_count_shield"
+		actorfile = "gfx\models\Shields\slavic_count_shield.xac"
 		scale = 0.27f
 		use_animation = no
 		cull_distance = 550.0f
@@ -11,8 +11,8 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "pagangfx_duke_shield"
-		actorfile = "gfx\models\Shields\pagan_duke_shield.xac"
+		name = "slavicgfx_duke_shield"
+		actorfile = "gfx\models\Shields\slavic_duke_shield.xac"
 		scale = 0.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -20,8 +20,8 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "pagangfx_king_shield"
-		actorfile = "gfx\models\Shields\pagan_king_shield.xac"
+		name = "slavicgfx_king_shield"
+		actorfile = "gfx\models\Shields\slavic_king_shield.xac"
 		scale = 0.27f
 		use_animation = no
 		cull_distance = 550.0f
@@ -29,8 +29,8 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "pagangfx_emperor_shield"
-		actorfile = "gfx\models\Shields\pagan_empire_shield.xac"
+		name = "slavicgfx_emperor_shield"
+		actorfile = "gfx\models\Shields\slavic_empire_shield.xac"
 		scale = 0.27f
 		use_animation = no
 		cull_distance = 550.0f
@@ -38,8 +38,8 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "reformedpagangfx_count_shield"
-		actorfile = "gfx\models\Shields\pagan_count_shield.xac"
+		name = "slavicholygfx_count_shield"
+		actorfile = "gfx\models\Shields\slavic_count_shield.xac"
 		scale = 0.27f
 		use_animation = no
 		cull_distance = 550.0f
@@ -47,8 +47,8 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "reformedpagangfx_duke_shield"
-		actorfile = "gfx\models\Shields\pagan_duke_shield.xac"
+		name = "slavicholygfx_duke_shield"
+		actorfile = "gfx\models\Shields\slavic_duke_shield.xac"
 		scale = 0.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -56,8 +56,8 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "reformedpagangfx_king_shield"
-		actorfile = "gfx\models\Shields\pagan_king_shield.xac"
+		name = "slavicholygfx_king_shield"
+		actorfile = "gfx\models\Shields\slavic_king_shield.xac"
 		scale = 0.27f
 		use_animation = no
 		cull_distance = 550.0f
@@ -65,8 +65,8 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "reformedpagangfx_emperor_shield"
-		actorfile = "gfx\models\Shields\pagan_empire_shield.xac"
+		name = "slavicholygfx_emperor_shield"
+		actorfile = "gfx\models\Shields\slavic_empire_shield.xac"
 		scale = 0.27f
 		use_animation = no
 		cull_distance = 550.0f

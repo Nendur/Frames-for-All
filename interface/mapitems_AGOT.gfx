@@ -1,0 +1,112 @@
+objectTypes = {
+### AGOT shields ######################################################
+
+	EMFXActorType = {
+		name = "oldgodsgfx_count_shield"
+		actorfile = "gfx\models\Shields\finnic_count_shield.xac"
+		scale = 0.27f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "oldgodsgfx_duke_shield"
+		actorfile = "gfx\models\Shields\finnic_duke_shield.xac"
+		scale = 0.3f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "oldgodsgfx_king_shield"
+		actorfile = "gfx\models\Shields\finnic_king_shield.xac"
+		scale = 0.27f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "oldgodsgfx_emperor_shield"
+		actorfile = "gfx\models\Shields\finnic_empire_shield.xac"
+		scale = 0.27f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "rhllorgfx_count_shield"
+		actorfile = "gfx\models\Shields\persian_count_shield.xac"
+		scale = 0.8f
+		use_animation = no
+	}
+
+	EMFXActorType = {
+		name = "rhllorgfx_duke_shield"
+		actorfile = "gfx\models\Shields\persian_duke_shield.xac"
+		scale = 0.7f
+		use_animation = no
+	}
+
+	EMFXActorType = {
+		name = "rhllorgfx_king_shield"
+		actorfile = "gfx\models\Shields\persian_king_shield.xac"
+		scale = 0.7f
+		use_animation = no
+	}
+
+	EMFXActorType = {
+		name = "rhllorgfx_emperor_shield"
+		actorfile = "gfx\models\Shields\persian_king_shield.xac"
+		scale = 0.8f
+		use_animation = no
+	}
+
+	EMFXActorType = {
+		name = "harpygfx_count_shield"
+		actorfile = "gfx\models\Shields\Muslim_shield_02.xac"
+		scale = 0.35f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "harpygfx_duke_shield"
+		actorfile = "gfx\models\Shields\Muslim_shield_02.xac"
+		scale = 0.35f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "harpygfx_king_shield"
+		actorfile = "gfx\models\Shields\egyptian_shield.xac"
+		scale = 0.4f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "harpygfx_emperor_shield"
+		actorfile = "gfx\models\Shields\egyptian_shield.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_khalasar"
+		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
+		scale = 0.5f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+}

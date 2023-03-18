@@ -4,6 +4,15 @@ objectTypes = {
 ### Papal State
 
 	EMFXActorType = {
+		name = "k_papacy"
+		actorfile = "gfx\models\Shields\papalstates.xac"
+		scale = 0.4f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
 		name = "k_papal_state"
 		actorfile = "gfx\models\Shields\papalstates.xac"
 		scale = 0.4f
@@ -82,7 +91,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "e_mongol_empire"
 		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
-		scale = 0.4f
+		scale = 0.45f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
@@ -91,7 +100,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "e_golden_horde"
 		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
-		scale = 0.4f
+		scale = 0.45f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
@@ -100,7 +109,16 @@ objectTypes = {
 	EMFXActorType = {
 		name = "e_il-khanate"
 		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
-		scale = 0.4f
+		scale = 0.45f
+		use_animation = no
+		cull_distance = 550.0f
+		scale_on_cull_distance = no
+	}
+
+	EMFXActorType = {
+		name = "e_ilkhanate"
+		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
+		scale = 0.45f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
@@ -109,16 +127,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "e_chagatai"
 		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
-		scale = 0.4f
-		use_animation = no
-		cull_distance = 550.0f
-		scale_on_cull_distance = no
-	}
-
-	EMFXActorType = {
-		name = "e_khalasar"
-		actorfile = "gfx\models\Shields\golden_hordes_shield.xac"
-		scale = 0.4f
+		scale = 0.45f
 		use_animation = no
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
